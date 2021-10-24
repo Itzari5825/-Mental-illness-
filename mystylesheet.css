@@ -1,0 +1,140 @@
+body{
+  background-image: url("mentalwallpaper.jpg");
+}
+
+h2{
+  background-color: #C8E3D4;
+  text-align: center;
+  font-size: 25px;
+}
+
+.header{
+  background-color: #C8E3D4;
+  text-align: center;
+}
+
+a{
+  width: 5%;
+  padding-left: 10px;
+  margin-right: 10px;
+  float:left;
+  font-style: italic;
+}
+
+.menuu{
+  background-color: #F6EABE;
+  margin: 0;
+  padding: 0px;
+}
+
+.menuu a{
+  display:block;
+  padding: 14px 16px;
+  color: Black;
+  text-decoration: none;
+  float:left;
+}
+
+.menuu a:hover{
+  background-color: Lightblue;
+}
+
+p.groove{
+  border-style:solid;
+  color: Black;
+text-align: center;
+background-color: #C8E3D4;
+}
+
+p.double{
+  border-style: double;
+  text-align: Center;
+  background-color: #889EAF;
+  font-size: 30px;
+}
+
+p{
+  font-family: inherit;
+  font-size: 25px;
+  color: white;
+  font-style: normal;
+  text-align: center;
+  background-color: #506D84;
+}
+
+ul{
+  font-family: inherit;
+  font-size: 20px;
+  color: white;
+  font-style: normal;
+  text-align: left;
+  background-color: #506D84;
+}
+
+.head{
+  background-color: #506D84;
+}
+
+.action_page.php{
+  text-align: center;
+}
+
+h1{
+  font-family: inherit;
+  font-size: 30px;
+  color: Black;
+  font-style: normal;
+  text-align: center;
+  background-color: #C8E3D4;
+}
+
+h3{
+  text-align: center;
+  font-size: 35px;
+}
+
+h4{
+  font-family: inherit;
+  font-size: 30px;
+  color: Black;
+  font-style: normal;
+  text-align: center;
+  background-color: #C8E3D4;
+}
+
+iframe.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{
+  width: 20%;
+  height: 13%;
+}
+
+iframe.book{
+  width: 20%;
+  height: 13%;
+  padding-left: 10px;
+  margin-right: 10px;
+}
+
+.menu,.footerbar{
+  background-color: #C8E3D4;
+  margin:0;
+  padding: 0px;
+  overflow:hidden;
+}
+
+.menu a,.footerbar a{
+  display: block;
+  padding: 14px 16px;
+  color:Black;
+  text-decoration: none;
+  float: left;
+}
+
+.menu a:hover,.footerbar a:hover{
+  background-position: lightblue;
+}
